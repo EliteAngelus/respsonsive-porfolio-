@@ -4,6 +4,17 @@ body{background: #ccc;
 	font-size: 18px;
 	line-height: 27px;
 }
+
+
+header{ padding: 0px;
+	  color: #333;
+	  background: #ccc;
+	  text-align: center;
+	  border: solid;
+	  margin: auto;
+	  margin-bottom: auto;
+	/*  overflow: auto;*/
+	  }
 	
 .wrapper{
 
